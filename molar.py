@@ -3,14 +3,13 @@ from string import digits, ascii_letters
 """
 Molar mass calculator by Redline Software
 -----------------------------------------
-Open source software, provided free of charge by Redline Software.
 Not for illegal or test/exam cheating use.
 Redline Software does not take any responsibility for bugs and/or incorrect results. Use at your own risk.
 
-Copyright 2021 Redline Software. All rights reserved.
+2021 Redline Software
 """
 
-from string import digits, ascii_letters
+from string import digits
 
 element_names = {
     # Data from the Periodic Table
