@@ -18,4 +18,4 @@ Download .deb from releases and install it.
 ## Run
 If installed from .deb package, you will find the icon in your app menu.
 
-Otherwise, run command `python molar.py` from the directory it's installed. (ex. if it's in your `/xyz` directory, run `/xyz/molar_mass_calculator/molar.py`)
+Otherwise, run command `python3 molar.py` from the directory it's installed. (ex. if it's in your `/xyz` directory, run `python3 /xyz/molar_mass_calculator/molar.py`)
