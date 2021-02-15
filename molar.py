@@ -1,4 +1,4 @@
-from string import digits, ascii_letters
+from string import digits
 
 """
 Molar mass calculator by Redline Software
