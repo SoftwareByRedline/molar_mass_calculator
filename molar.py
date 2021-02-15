@@ -1,5 +1,3 @@
-from string import digits
-
 """
 Molar mass calculator by Redline Software
 -----------------------------------------
